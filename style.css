@@ -1,0 +1,30 @@
+:root{
+    --bgcolor:#FFF9F4;
+    --btncolor:#3D4FF3;
+    --textcolor:#FA804C;
+    --cardbackcolor:#F1F1F1;
+}
+body{
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Poppins', sans-serif;
+}
+.nab-bar{
+    background-color: var(--bgcolor);   
+}
+.bannar-container{
+    background-color: var(--bgcolor);
+}
+.banar-text{
+    color:var(--textcolor);
+}
+h1{
+    font-weight: 700;
+    line-height: 70px;
+    font-size: 70px;
+}
+.card-background{
+    background-color: var(--cardbackcolor);
+}
+.icon-img{
+    width:100px;
+}
